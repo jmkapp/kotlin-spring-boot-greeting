@@ -2,7 +2,7 @@ Simple Spring Boot greeting app in Kotlin.
 
 Based on:
 
-https://github.com/sdeleuze/spring-boot-kotlin-demo
+https://github.com/spring-guides/gs-rest-service
 
 with assistance from:
 
